@@ -1,0 +1,19 @@
+.dashboard {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .book-btn {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
+  .book-btn:hover {
+    background-color: #218838;
+  }
+  
