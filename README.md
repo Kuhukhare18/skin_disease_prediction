@@ -5,4 +5,5 @@ ai_healthcare_backend contains
  'ai_healthcare_frontend" contains 1)folder src
 "src" has 1)app.js 2)index.js 3)index.css 4)styles.css 5)folder components
 "components has" 
-<img width="951" alt="image" src="https://github.com/user-attachments/assets/5d6b6954-59f0-4665-a9b6-23d8f77d232f" />
+
+<img width="847" alt="Screenshot 2025-04-30 1027501" src="https://github.com/user-attachments/assets/5e349d3f-95d2-4f72-9667-90429d4b493f" />
